@@ -1,5 +1,5 @@
 # tic_tac_toe 
-One of the ost popular simple game for playing on terminal.
+One of the most popular simple game for playing on terminal.
 
 ## General info
 This project was making during the programming course for training basic Python language.
