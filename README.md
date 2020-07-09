@@ -5,8 +5,8 @@ One of the ost popular simple game for playing on terminal.
 This project was making during the programming course for training basic Python language.
 
 ## Screenshots
-![screenshots](/img/ttt1.png)
-![screenshots](/img/ttt2.png)
+![screenshots](/img/ttt1.png?raw=true)
+![screenshots](/img/ttt2.png?raw=true)
 
 ## Technologies
 * Python - version 3.8.3
