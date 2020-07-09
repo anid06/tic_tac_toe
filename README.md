@@ -1,11 +1,11 @@
 # tic_tac_toe 
-One of the ost popular simple game for play on terminal.
+One of the ost popular simple game for playing on terminal.
 
 ## General info
 This project was making during the programming course for training basic Python language.
 
 ## Screenshots
-(img/ttt1.png)(img/ttt2.png)
+(/img/ttt1.png)(/img/ttt2.png)
 
 ## Technologies
 * Python - version 3.8.3
